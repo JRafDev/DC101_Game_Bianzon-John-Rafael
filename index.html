@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Spirit Blade Memory</title>
+
+<script src="https://cdn.tailwindcss.com"></script>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body class="font-nunito text-[#cec6b9]">
+
+<!-- VIDEO BACKGROUND -->
+<video autoplay muted loop playsinline id="bg-video">
+    <source src="Assets/Miyabi.mp4" type="video/mp4">
+</video>
+
+<div class="video-overlay"></div>
+
+<!-- BACKGROUND MUSIC (MP3) -->
+<audio id="bg-music" src="Assets/Hoshimi Miyabi BG.mp3" loop></audio>
+
+<!-- SFX -->
+<audio id="flip-sound" src="Assets/SwordSlashSFX.mp4"></audio>
+
+<div class="relative z-10 container mx-auto px-4 py-8">
+
+<!-- START MENU -->
+<div id="start-menu" class="flex flex-col items-center justify-center min-h-[80vh]">
+    <div class="menu-panel">
+        <h1 class="text-5xl font-bold mb-6 tracking-wide text-center">
+          ⚔️ Spirit Blade ⚔️
+        </h1>
+        <p class="text-lg mb-8 opacity-90 text-center">
+            Match the wandering spirits, levels get harder<br>
+            as you progress. Can you master the Spirit Blade?
+        </p>
+        <button id="start-btn"
+            class="bg-[#53777e] hover:bg-[#6a9098] text-[#cec6b9] font-bold py-4 px-10 rounded-full shadow-lg transition">
+            Begin Trial
+        </button>
+    </div>
+</div>
+
+<!-- GAME SCREEN -->
+<div id="game-screen" class="hidden">
+
+    <div class="flex justify-between items-center mb-6 max-w-xl mx-auto">
+        <div>
+            <h2 id="level-display" class="text-2xl font-bold"></h2>
+            <p id="moves-display" class="text-sm opacity-80"></p>
+        </div>
+
+        <button id="pause-btn"
+            class="bg-[#53777e] hover:bg-[#6a9098] p-3 rounded-full shadow">
+            ❚❚
+        </button>
+    </div>
+
+    <div class="flex justify-center items-center min-h-[65vh]">
+        <div id="game-board" class="grid gap-4"></div>
+    </div>
+</div>
+</div>
+
+<!-- PAUSE MENU -->
+<div id="pause-menu"
+     class="hidden fixed inset-0 bg-black/70 flex items-center justify-center z-50">
+    <div class="bg-[#313a3d] p-8 rounded-2xl shadow-xl text-center w-80">
+        <h3 class="text-3xl font-bold mb-6">Paused</h3>
+        <button id="resume-btn"
+            class="bg-[#53777e] hover:bg-[#6a9098] py-3 px-6 rounded-full w-full mb-4">
+            Resume
+        </button>
+        <button id="toggle-music-btn"
+            class="bg-[#53777e] hover:bg-[#6a9098] py-3 px-6 rounded-full w-full mb-4">
+            Mute Music
+        </button>
+        <button id="menu-btn"
+            class="bg-[#cec6b9] text-[#313a3d] py-3 px-6 rounded-full w-full">
+            Back to Menu
+        </button>
+    </div>
+</div>
+
+<!-- LEVEL COMPLETE -->
+<div id="level-complete"
+     class="hidden fixed inset-0 bg-black/70 flex items-center justify-center z-50">
+    <div class="bg-[#313a3d] p-8 rounded-2xl shadow-xl text-center w-80">
+        <h3 class="text-3xl font-bold mb-4">Spirits Aligned 👻</h3>
+        <button id="next-level-btn"
+            class="bg-[#53777e] hover:bg-[#6a9098] py-3 px-6 rounded-full w-full">
+            Next Trial
+        </button>
+    </div>
+</div>
+
+<!-- GAME OVER -->
+<div id="game-over"
+     class="hidden fixed inset-0 bg-black/70 flex items-center justify-center z-50">
+    <div class="bg-[#313a3d] p-8 rounded-2xl shadow-xl text-center w-80">
+        <h3 class="text-3xl font-bold mb-4 text-red-400">Game Over</h3>
+        <p class="mb-6 opacity-80">The spirits slipped away…</p>
+        <button id="retry-btn"
+            class="bg-[#53777e] hover:bg-[#6a9098] py-3 px-6 rounded-full w-full">
+            Retry Level
+        </button>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
