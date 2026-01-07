@@ -1,6 +1,6 @@
 Spirit Blade Memory
 
-Author: Shiro Neko
+Author: Rafael Bianzon
 Course: DC 101 – Web Development
 Project Title: Spirit Blade Memory
 Mode: Individual Work
