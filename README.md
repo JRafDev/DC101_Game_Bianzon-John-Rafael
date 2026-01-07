@@ -76,12 +76,12 @@ References
 ---
 The following external resources were used and properly acknowledged:
 
-Tailwind CSS – Utility-based styling framework. Source: https://tailwindcss.com
+Tailwind CSS – Utility-based styling framework. Source:🔗https://tailwindcss.com
 
-Google Fonts – Nunito – Used for clean, modern typography. Source: https://fonts.google.com/specimen/Nunito
+Google Fonts – Nunito – Used for clean, modern typography. Source:🔗https://fonts.google.com/specimen/Nunito
 
 Video & Image Assets – Background video and Images featuring the character Miyabi, used solely for educational purposes in this school project. Credit to the original creator.
 
-Audio Assets – Background music by tnbee, used solely for educational purposes in this school project. Original track: 🔗(https://www.youtube.com/watch?v=3JjPPecGe0I&list=RD3JjPPecGe0I&start_radio=1)
+Audio Assets – Background music by tnbee, used solely for educational purposes in this school project. Original track:🔗https://www.youtube.com/watch?v=3JjPPecGe0I&list=RD3JjPPecGe0I&start_radio=1
 
 JavaScript DOM & Audio API – For dynamic card creation, game state management, and audio playback.
