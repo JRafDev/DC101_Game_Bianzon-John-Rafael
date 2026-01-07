@@ -20,15 +20,15 @@ Technologies Used
 
 How to Play
 ---
-1.Press the Begin Trial button to start the game.  
-2.The game begins at Level 1, with a grid of face-down cards.  
-3.Click on a card to flip it and reveal the spirit.  
-4.Click a second card to try to find a matching pair.  
-5.If the cards match, they remain face-up. If not, they flip back automatically.  
-6.he number of remaining flips per level is displayed; running out of flips ends the game.  
-7.Successfully matching all pairs completes the level and opens the Next Trial screen.  
-8.Players can pause the game, resume, mute or unmute the music, or return to the main menu.  
-9.The game progresses through 10 levels with increasing difficulty.  
+1. Press the Begin Trial button to start the game.  
+2. The game begins at Level 1, with a grid of face-down cards.  
+3. Click on a card to flip it and reveal the spirit.  
+4. Click a second card to try to find a matching pair.  
+5. If the cards match, they remain face-up. If not, they flip back automatically.  
+6. The number of remaining flips per level is displayed; running out of flips ends the game.  
+7. Successfully matching all pairs completes the level and opens the Next Trial screen.  
+8. Players can pause the game, resume, mute or unmute the music, or return to the main menu.  
+9. The game progresses through 10 levels with increasing difficulty.  
 
 How to Run the Game
 ---
