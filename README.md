@@ -25,15 +25,15 @@ Git & GitHub – Version control and project hosting
 
 How to Play
 ---
-Press the Begin Trial button to start the game.
-The game begins at Level 1, with a grid of face-down cards.
-Click on a card to flip it and reveal the spirit.
-Click a second card to try to find a matching pair.
-If the cards match, they remain face-up. If not, they flip back automatically.
-The number of remaining flips per level is displayed; running out of flips ends the game.
-Successfully matching all pairs completes the level and opens the Next Trial screen.
-Players can pause the game, resume, mute or unmute the music, or return to the main menu.
-The game progresses through 10 levels with increasing difficulty.
+1.Press the Begin Trial button to start the game.
+2.The game begins at Level 1, with a grid of face-down cards.
+3.Click on a card to flip it and reveal the spirit.
+4.Click a second card to try to find a matching pair.
+5.If the cards match, they remain face-up. If not, they flip back automatically.
+6.he number of remaining flips per level is displayed; running out of flips ends the game.
+7.Successfully matching all pairs completes the level and opens the Next Trial screen.
+8.Players can pause the game, resume, mute or unmute the music, or return to the main menu.
+9.The game progresses through 10 levels with increasing difficulty.
 
 How to Run the Game
 ---
@@ -55,7 +55,7 @@ Open the project folder and double-click index.html in your browser.
 Start playing and enjoy matching the spirits!
 
 Screenshots
-
+---
 Home Screen
 Displays the game title, cinematic background video, and Begin Trial button.
 <img width="1915" height="939" alt="Screenshot 2026-01-07 201244" src="https://github.com/user-attachments/assets/7a1f4225-ead6-412e-bcd8-42aa5f47f8b0" />
@@ -77,7 +77,7 @@ Displays when the player runs out of flips before completing the level, with a R
 <img width="1909" height="934" alt="Screenshot 2026-01-07 201347" src="https://github.com/user-attachments/assets/43fcc58e-e382-45e9-811b-668abab75a0f" />
 
 References
-
+---
 The following external resources were used and properly acknowledged:
 
 Tailwind CSS – Utility-based styling framework. Source: https://tailwindcss.com
