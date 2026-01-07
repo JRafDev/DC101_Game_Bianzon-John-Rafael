@@ -45,6 +45,10 @@ git clone [https://github.com/JRafDev/DC101_Game_Bianzon-John-Rafael]
 Open the project folder and double-click index.html in your browser.  
 Start playing and enjoy matching the spirits!  
 
+Gameplay Test
+---
+Short Gameplay Video
+
 Screenshots
 ---
 ### Home Screen  
