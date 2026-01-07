@@ -6,13 +6,11 @@ Project Title: Spirit Blade Memory
 Mode: Individual Work
 
 Game Description
-
+---
 Spirit Blade Memory is a browser-based interactive memory match game where players flip cards to reveal wandering spirits and find matching pairs. The game features a cinematic background video, thematic background music, sound effects, and animated card flips to create an immersive experience. Levels progressively increase in difficulty by expanding the grid size and limiting the number of flips per level. Players can pause, resume, or return to the main menu, adding flexibility to gameplay. The game demonstrates careful management of game state, event handling, DOM manipulation, and responsive layout using HTML, CSS, and JavaScript.
 
-This project was developed as an original web-based game to showcase front-end programming skills, including dynamic card generation, animations, audio integration, and level progression logic.
-
 Technologies Used
-
+---
 This project was built using pure front-end technologies:
 
 HTML – Structure of the game, menus, and interactive elements
@@ -26,26 +24,19 @@ Tailwind CSS – Utility-first styling for layout, spacing, and responsiveness
 Git & GitHub – Version control and project hosting
 
 How to Play
-
+---
 Press the Begin Trial button to start the game.
-
 The game begins at Level 1, with a grid of face-down cards.
-
 Click on a card to flip it and reveal the spirit.
-
 Click a second card to try to find a matching pair.
-
 If the cards match, they remain face-up. If not, they flip back automatically.
-
 The number of remaining flips per level is displayed; running out of flips ends the game.
-
 Successfully matching all pairs completes the level and opens the Next Trial screen.
-
 Players can pause the game, resume, mute or unmute the music, or return to the main menu.
-
 The game progresses through 10 levels with increasing difficulty.
 
 How to Run the Game
+---
 Option 1: Play Online (GitHub Pages)
 
 You can play the game anytime through the live link below
