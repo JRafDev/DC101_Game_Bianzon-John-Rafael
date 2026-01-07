@@ -53,7 +53,7 @@ Screenshots
 ---
 Home Screen
 Displays the game title, cinematic background video, and Begin Trial button.
-<img width="1915" height="939" alt="Screenshot 2026-01-07 201244" src="https://github.com/user-attachments/assets/7a1f4225-ead6-412e-bcd8-42aa5f47f8b0" />
+<img src="assets/Home Screen.png" width="300"/>
 
 Gameplay Board
 Shows a grid of face-down cards. Players flip cards to match spirit images while flips remaining are displayed.
