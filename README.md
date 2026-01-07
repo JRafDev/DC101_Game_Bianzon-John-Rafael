@@ -33,21 +33,15 @@ How to Play
 How to Run the Game
 ---
 - Option 1: Play Online (GitHub Pages)
-
-You can play the game anytime through the live link below
-Might take a few sec to load
+You can play the game anytime through the live link below  
+Might take a few sec to load  
 🔗 [https://jrafdev.github.io/DC101_Game_Bianzon-John-Rafael/]
 
-- Option 2: Run Locally on Your Computer
-
-Download or clone the repository:
-
-git clone [https://github.com/JRafDev/DC101_Game_Bianzon-John-Rafael]
-
-
-Open the project folder and double-click index.html in your browser.
-
-Start playing and enjoy matching the spirits!
+- Option 2: Run Locally on Your Computer  
+Download or clone the repository:  
+git clone [https://github.com/JRafDev/DC101_Game_Bianzon-John-Rafael]  
+Open the project folder and double-click index.html in your browser.  
+Start playing and enjoy matching the spirits!  
 
 Screenshots
 ---
