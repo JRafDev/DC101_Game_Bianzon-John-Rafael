@@ -1,8 +1,8 @@
-Spirit Blade Memory
+Spirit Blade Memory Match
 ---
-Author: Rafael
+Author: Rafael Bianzon
 Course: DC 101 – Web Development
-Project Title: Spirit Blade Memory
+Project Title: Spirit Blade Memory Match
 Mode: Individual Work
 
 Game Description
