@@ -53,23 +53,23 @@ Screenshots
 ---
 Home Screen
 Displays the game title, cinematic background video, and Begin Trial button.
-<img src="assets/Home Screen.png" width="300"/>
+<img src="Assets/Home Screen.png" width="300"/>
 
 Gameplay Board
 Shows a grid of face-down cards. Players flip cards to match spirit images while flips remaining are displayed.
-<img src="assets/Gameplay Board.png" width="300"/>
+<img src="Assets/Gameplay Board.png" width="300"/>
 
 Pause Menu
 Players can pause the game, resume, mute music, or return to the main menu.
-<img width="1919" height="941" alt="Screenshot 2026-01-07 201305" src="https://github.com/user-attachments/assets/26f30486-3f95-4d10-ac11-688633413e81" />
+<img src="Assets/Pause Menu.png" width="300"/>
 
 Level Complete Screen
 Appears after all pairs in a level are matched, offering a Next Trial button to continue.
-<img width="1912" height="935" alt="Screenshot 2026-01-07 201417" src="https://github.com/user-attachments/assets/2ded3acf-dccb-4456-8931-fcd8f60714e3" />
+<img src="Assets/Level Complete.png" width="300"/>
 
 Game Over Screen
 Displays when the player runs out of flips before completing the level, with a Retry Level button.
-<img width="1909" height="934" alt="Screenshot 2026-01-07 201347" src="https://github.com/user-attachments/assets/43fcc58e-e382-45e9-811b-668abab75a0f" />
+<img src="Assets/Game Over.png" width="300"/>
 
 References
 ---
