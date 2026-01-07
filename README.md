@@ -37,7 +37,7 @@ How to Run the Game
 - Option 1: Play Online (GitHub Pages)
 You can play the game anytime through the live link below  
 **Might take a few sec to 1 min to load due to the video background (depending on internet connection)**
-**~May Experience Delay Depending on Internet Connection~**  
+***May Experience Delay Depending on Internet Connection***  
 🔗 [https://jrafdev.github.io/DC101_Game_Bianzon-John-Rafael/]
 
 - Option 2: Run Locally on Your Computer  
