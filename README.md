@@ -9,6 +9,8 @@ Game Description
 ---
 Spirit Blade Memory is a browser-based interactive memory match game where players flip cards to reveal wandering spirits and find matching pairs. The game features a cinematic background video, thematic background music, sound effects, and animated card flips to create an immersive experience. Levels progressively increase in difficulty by expanding the grid size and limiting the number of flips per level. Players can pause, resume, or return to the main menu, adding flexibility to gameplay. The game demonstrates careful management of game state, event handling, DOM manipulation, and responsive layout using HTML, CSS, and JavaScript.
 
+This project was created solely for educational purposes. All assets used, including videos, images, and audio, are not owned by me and are credited to their original creators.
+
 Technologies Used
 ---
 - This project was built using pure front-end technologies:
