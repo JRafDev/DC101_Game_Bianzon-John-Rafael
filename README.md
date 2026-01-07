@@ -45,24 +45,24 @@ Start playing and enjoy matching the spirits!
 
 Screenshots
 ---
-Home Screen
-Displays the game title, cinematic background video, and Begin Trial button.
+###Home Screen  
+Displays the game title, cinematic background video, and Begin Trial button.  
 <img src="Assets/Home Screen.png" width="300"/>
 
-Gameplay Board
-Shows a grid of face-down cards. Players flip cards to match spirit images while flips remaining are displayed.
+###Gameplay Board  
+Shows a grid of face-down cards. Players flip cards to match spirit images while flips remaining are displayed.  
 <img src="Assets/Gameplay Board.png" width="300"/>
 
-Pause Menu
-Players can pause the game, resume, mute music, or return to the main menu.
+###Pause Menu  
+Players can pause the game, resume, mute music, or return to the main menu.  
 <img src="Assets/Pause Menu.png" width="300"/>
 
-Level Complete Screen
-Appears after all pairs in a level are matched, offering a Next Trial button to continue.
+###Level Complete Screen  
+Appears after all pairs in a level are matched, offering a Next Trial button to continue.  
 <img src="Assets/Level Complete.png" width="300"/>
 
-Game Over Screen
-Displays when the player runs out of flips before completing the level, with a Retry Level button.
+###Game Over Screen  
+Displays when the player runs out of flips before completing the level, with a Retry Level button.  
 <img src="Assets/Game Over.png" width="300"/>
 
 References
