@@ -57,7 +57,7 @@ Displays the game title, cinematic background video, and Begin Trial button.
 
 Gameplay Board
 Shows a grid of face-down cards. Players flip cards to match spirit images while flips remaining are displayed.
-<img width="1917" height="935" alt="Screenshot 2026-01-07 201258" src="https://github.com/user-attachments/assets/101c2090-7958-48bf-897f-4ef2c3aaa984" />
+<img src="assets/Gameplay Board.png" width="300"/>
 
 Pause Menu
 Players can pause the game, resume, mute music, or return to the main menu.
