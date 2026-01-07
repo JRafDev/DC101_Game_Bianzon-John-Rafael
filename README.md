@@ -41,7 +41,7 @@ You can play the game anytime through the live link below
 
 - Option 2: Run Locally on Your Computer  
 Download or clone the repository:  
-git clone [https://github.com/JRafDev/DC101_Game_Bianzon-John-Rafael]  
+git clone 🔗[https://github.com/JRafDev/DC101_Game_Bianzon-John-Rafael]  
 Open the project folder and double-click index.html in your browser.  
 Start playing and enjoy matching the spirits!  
 
@@ -82,6 +82,6 @@ Google Fonts – Nunito – Used for clean, modern typography. Source: https://f
 
 Video & Image Assets – Background video and Images featuring the character Miyabi, used solely for educational purposes in this school project. Credit to the original creator.
 
-Audio Assets – Background music by tnbee, used solely for educational purposes in this school project. Original track: YouTube link
+Audio Assets – Background music by tnbee, used solely for educational purposes in this school project. Original track: 🔗(https://www.youtube.com/watch?v=3JjPPecGe0I&list=RD3JjPPecGe0I&start_radio=1)
 
 JavaScript DOM & Audio API – For dynamic card creation, game state management, and audio playback.
