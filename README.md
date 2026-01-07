@@ -47,7 +47,7 @@ Start playing and enjoy matching the spirits!
 
 Gameplay Test
 ---
-**Short Gameplay Video**   
+**Short Gameplay Video incase you cant open the Github Pages**   
 🔗 [https://drive.google.com/file/d/1uuuzPAsre5z9rf5gRxP4bGFDQO_3bkwd/view]
 
 Screenshots
