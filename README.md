@@ -32,7 +32,7 @@ How to Play
 8. Players can pause the game, resume, mute or unmute the music, or return to the main menu.  
 9. The game progresses through 10 levels with increasing difficulty.  
 
-How to Run the Game
+How to Run the Game  
 ---
 - Option 1: Play Online (GitHub Pages)
 You can play the game anytime through the live link below  
