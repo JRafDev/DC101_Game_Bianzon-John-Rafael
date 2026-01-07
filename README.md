@@ -11,17 +11,12 @@ Spirit Blade Memory is a browser-based interactive memory match game where playe
 
 Technologies Used
 ---
-This project was built using pure front-end technologies:
-
-HTML – Structure of the game, menus, and interactive elements
-
-CSS – Styling, grid layouts, card flipping animations, and responsive design
-
-JavaScript – Game logic, state management, event handling, card matching, level progression, and audio control
-
-Tailwind CSS – Utility-first styling for layout, spacing, and responsiveness
-
-Git & GitHub – Version control and project hosting
+- This project was built using pure front-end technologies:
+- HTML – Structure of the game, menus, and interactive elements
+- CSS – Styling, grid layouts, card flipping animations, and responsive design
+- JavaScript – Game logic, state management, event handling, card matching, level progression, and audio control
+- Tailwind CSS – Utility-first styling for layout, spacing, and responsiveness
+- Git & GitHub – Version control and project hosting
 
 How to Play
 ---
@@ -37,13 +32,13 @@ How to Play
 
 How to Run the Game
 ---
-Option 1: Play Online (GitHub Pages)
+- Option 1: Play Online (GitHub Pages)
 
 You can play the game anytime through the live link below
 Might take a few sec to load
 🔗 [https://jrafdev.github.io/DC101_Game_Bianzon-John-Rafael/]
 
-Option 2: Run Locally on Your Computer
+- Option 2: Run Locally on Your Computer
 
 Download or clone the repository:
 
